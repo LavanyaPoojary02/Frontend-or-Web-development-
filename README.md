@@ -13,6 +13,9 @@ This repository contains small web pages and mini-projects created to practice c
 ## 📌 Status
 🟢 Actively learning and adding new projects.
 
+## 💻 Project I made
+  -To-do-List
+
 ## 👩‍💻 Author
 **Lavanya Poojary**  
 Aspiring Frontend Developer
