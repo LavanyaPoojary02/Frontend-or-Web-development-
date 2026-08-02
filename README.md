@@ -5,17 +5,17 @@ Basic coding practice in **HTML**, **CSS**, and **JavaScript** — built while l
 ## 🚀 About
 This repository contains small web pages and mini-projects created to practice core web development concepts.
 
-## 🛠️ Skills Practiced
+## 🛠️ Skills Practiced-
 - HTML structure & tags
 - CSS styling (inline, internal, external)
 - JavaScript basics *(coming soon)*
 
-## 📌 Status
+## 📌 Status-
 🟢 Actively learning and adding new projects.
 
 ## 💻 Project I made
   -To-do-List
 
-## 👩‍💻 Author
+## 👩‍💻 Author-
 **Lavanya Poojary**  
 Aspiring Frontend Developer
