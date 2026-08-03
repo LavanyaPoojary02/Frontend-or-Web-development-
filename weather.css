@@ -1,0 +1,30 @@
+body
+{
+  display:flex ;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color:grey;
+  margin:0;
+}
+.weather-container
+{
+  background-color: grey;
+  text-align:center;
+}
+#cityInput
+{
+  padding:10px;
+  width:60%;
+  border:1px;
+  border-radius: 5px;
+}
+#searchBtn
+{
+  padding:11px;
+  border: none;
+  background-color: #00796b;
+  color: white;
+  border-radius:5px;
+  margin-left: 8px;
+}
