@@ -14,8 +14,8 @@ This repository contains small web pages and mini-projects created to practice c
 🟢 Actively learning and adding new projects.
 
 ## 💻 Project I made
-  ✓To-do-List
-  ✓Simple Weather App
+  -To-do-List
+  -Simple Weather App
 
 ## 👩‍💻 Author-
 **Lavanya Poojary**  
