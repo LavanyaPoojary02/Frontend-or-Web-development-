@@ -8,15 +8,15 @@ This repository contains small web pages and mini-projects created to practice c
 ## 🛠️ Skills Practiced-
 - HTML structure & tags
 - CSS styling (inline, internal, external)
-- JavaScript basics *(coming soon)*
+- JavaScript basics
 
 ## 📌 Status-
 🟢 Actively learning and adding new projects.
 
 ## 💻 Project I made
-  -To-do-List
-  -Simple Weather App
-
+  - To-Do-List
+  - Simple Weather Website 
+  
 ## 👩‍💻 Author-
 **Lavanya Poojary**  
 Aspiring Frontend Developer
