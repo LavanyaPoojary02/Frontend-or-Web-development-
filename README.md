@@ -1,4 +1,4 @@
-# 🌐 Frontend / Web Development
+## 🌐 Frontend / Web Development
 
 Basic coding practice in **HTML**, **CSS**, and **JavaScript** — built while learning frontend development as a fresher.
 
