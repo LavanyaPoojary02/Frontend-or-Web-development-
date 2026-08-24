@@ -1,0 +1,26 @@
+body
+{
+  background-color:grey;
+  align-items: center;
+  display:flex;
+  justify-content: center;
+}
+.expenses_container
+{
+  padding:50px;
+}
+#desc, #amount
+{
+  padding: 8px;
+  margin: 5px;
+  border-radius: 5px;
+  border: 1px #ccc;
+}
+#addBtn
+{
+  padding:8px 13px ;
+  background-color:green;
+  display:flex;
+  align-item: center;
+  
+}
