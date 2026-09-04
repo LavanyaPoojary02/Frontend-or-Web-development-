@@ -21,3 +21,5 @@ This repository contains small web pages and mini-projects created to practice c
 ## 👩‍💻 Author-
 **Lavanya Poojary**  
 Aspiring Frontend Developer
+
+Always Ready To Learn 💻🙂
