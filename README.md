@@ -16,7 +16,8 @@ This repository contains small web pages and mini-projects created to practice c
 ## 💻 Project I made
   - To-Do-List
   - Simple Weather Website
-  - Simple Expenses Tracker 
+  - Simple Expenses Tracker
+  - Random Quotes
   
 ## 👩‍💻 Author-
 **Lavanya Poojary**  
