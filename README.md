@@ -2,24 +2,24 @@
 
 Basic coding practice in **HTML**, **CSS**, and **JavaScript** — built while learning frontend development as a fresher.
 
-## 🚀 About
+## 🚀 About:-
 This repository contains small web pages and mini-projects created to practice core web development concepts.
 
-## 🛠️ Skills Practiced-
+## 🛠️ Skills Practiced:-
 - HTML structure & tags
 - CSS styling (inline, internal, external)
 - JavaScript basics
 
-## 📌 Status-
+## 📌 Status:-
 🟢 Actively learning and adding new projects.
 
-## 💻 Project I made
+## 💻 Project I made:-
   - To-Do-List
   - Simple Weather Website
   - Simple Expenses Tracker
   - Random Quotes
   
-## 👩‍💻 Author-
+## 👩‍💻 Author:-
 **Lavanya Poojary**  
 Aspiring Frontend Developer
 
