@@ -3,7 +3,7 @@
 Basic coding practice in **HTML**, **CSS**, and **JavaScript** — built while learning frontend development as a fresher.
 
 ## 🚀 About:-
-This repository contains small web pages and mini-projects created to practice core web development concepts.
+This repository contains small web pages and mini-projects created to practice core web development and frontend concepts.
 
 ## 🛠️ Skills Practiced:-
 - HTML structure & tags
