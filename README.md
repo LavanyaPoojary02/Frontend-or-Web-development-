@@ -6,7 +6,7 @@ Basic coding practice in **HTML**, **CSS**, and **JavaScript** — built while l
 This repository contains small web pages and mini-projects created to practice core web development and frontend concepts.
 
 ## 🛠️ Skills I Practiced:-
-- HTML structure & tags
+- HTML structure & tag
 - CSS styling (inline, internal, external)
 - JavaScript basics
 
